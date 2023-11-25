@@ -11,7 +11,7 @@ html,body {
 
 header {
 	background-image: linear-gradient(rgba(42,58,74,0.85),rgba(42,58,74,0.85)), url(picture.jpg);
-	height: 100vh;
+	height: 100%;
 	background-size: cover;
 	background-position: center;
 }
@@ -67,7 +67,7 @@ header {
 .text2 {
 	transform: translate(-50%,-50%);
 	position: absolute;
-	top: 80%;
+	top: 70%;
 	left: 35%;
 }
 
